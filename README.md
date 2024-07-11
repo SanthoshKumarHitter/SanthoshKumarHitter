@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Santhosh Kumar Pathina
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning and data Analysis
 
 
 <!---
